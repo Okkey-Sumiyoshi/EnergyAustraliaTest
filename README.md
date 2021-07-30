@@ -17,6 +17,7 @@ Record Label 2
   Band A
     Alpha Festival
     Beta Festival
+```
 ## Output
 It should produce a result as follows.
 ```php
@@ -67,6 +68,7 @@ Record Label Still Bottom Records
 Record Label XS Recordings
 	 Band Werewolf Weekday
 		 Festival LOL-palooza
+```
 ## Note
 The results depends on the performance of the given APIs. 
 
