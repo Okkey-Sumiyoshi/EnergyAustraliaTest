@@ -1,6 +1,10 @@
 # EnergyAustraliaTest
 Coding test at Energy Australia
-test.php prints out Record label model 
+## Installation
+Run test.php from a terminal
+## Output
+The program prints out Record label model as follows;
+```php
 Record Label 1
    Band X
     Omega Festival
