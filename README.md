@@ -1,5 +1,5 @@
 # EnergyAustraliaTest
-Coding test at Energy Australia
+A submission by Okkey Sumiyoshi in response to the requested coding test at Energy Australia
 
 ## Installation
 Install test.php into a root folder of your webserver.
